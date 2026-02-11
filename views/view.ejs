@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/viewStyle.css">
+    <title>View Post</title>
+</head>
+<body>
+    <h1>View post in Detail</h1>
+
+    <div class="main">
+        <div class="id">
+            ID of post is: <span style="color: purple; text-decoration: solid purple underline;"><%= post.id %></span>
+        </div>
+
+        <br>
+
+        <div class="user">
+            This post was made by: <span style="color: purple; text-decoration: solid purple underline;">@<%= post.username %></span>
+        </div>
+
+        <br>
+
+        <div class="info">  
+            <br> 
+            <ul></ul><%= post.content %>
+        </div>
+    </div> 
+</body>
+</html>

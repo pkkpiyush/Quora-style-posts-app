@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 183, 50);
+}
+
+h1{
+    color: rgb(41, 12, 12);
+    text-decoration: solid underline rgb(119, 53, 7);
+    font-size: 35px;
+}
+
+.id{
+    color: #064bbb;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.user{
+    color: #064bbb;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.info{
+    color: purple;
+    font-size: 18px;
+    font-weight: 900;
+}

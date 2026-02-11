@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(255, 183, 50);
+}
+
+h1{
+    color: rgb(41, 12, 12);
+    text-decoration: solid underline rgb(119, 53, 7);
+    font-size: 35px;
+}
+
+.id{
+    color: #064bbb;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.user{
+    color: #064bbb;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.btn{
+    background-color: #e8f4ff;
+    color: #1a73e8;
+    border: 2px solid #1558b0;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    border-radius: 6px;
+    padding: 8px 16px;
+    margin-left: 145px;
+}
+
+.btn:hover {
+  background-color: #90c9ff;
+  color: #064bbb;
+  border-color: #0b57d0;
+}
+
+.text{
+    background-color: rgb(255, 208, 120);
+    font-size: 18px;
+    font-weight: 900;
+    color: purple;
+    border-radius: 5px;
+    border: 2px black solid;
+}
