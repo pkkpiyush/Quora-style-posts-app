@@ -18,3 +18,18 @@ Node.js
 Express.js
 EJS (Embedded JavaScript Templates)
 CRUD operations
+
+▶️ How to Run:
+
+1. Clone the repository
+2. Run npm install
+3. Run node app.js
+4. Open browser and go to http://localhost:8080/posts
+
+📚 What I Learned:
+
+Implementing CRUD functionality
+RESTful routing in Express
+Dynamic template rendering using EJS
+Structuring reusable CSS components
+Understanding client-server interaction
